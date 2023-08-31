@@ -22,7 +22,7 @@ function Header() {
             <Navbar className='color-nav' variant='dark' expand="lg" collapseOnSelect>
                 <Container>
                     <LinkContainer to='/'>
-                        <Navbar.Brand>G-Shop</Navbar.Brand>
+                        <Navbar.Brand>New-WShop</Navbar.Brand>
                     </LinkContainer>
 
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
