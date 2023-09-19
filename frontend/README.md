@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### nvm for vestion
+The version of the node the project has came for the development is 16 so the use the script below to safely use the next:
+```
+nvm use 16
+```
 
 ## Available Scripts
 
